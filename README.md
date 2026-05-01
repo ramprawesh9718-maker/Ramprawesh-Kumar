@@ -2,7 +2,7 @@ Hi, i am Ramprawesh-Kumar.
 I am a full stack django developer. I build clean, responsive web pages and small web apps.
 
 Skills:
-    C, Python, Javascript, 
+    C, Python,Django, Javascript, 
     CSS, Html, Bootstrap, 
     MySql, Git & GitHub
 
